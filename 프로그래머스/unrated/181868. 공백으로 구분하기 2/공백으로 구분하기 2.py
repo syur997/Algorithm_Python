@@ -1,7 +1,2 @@
 def solution(my_string):
-    result = []
-    my_string = my_string.split(' ')
-    for i in my_string:
-        if i != '' :
-            result.append(i)
-    return result
+    return [i for i in my_string.split(' ') if i != '']
