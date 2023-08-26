@@ -1,2 +1,3 @@
 # Algorithm_Python
-This is a auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+
+### 매일 매일 Python 문제 풀기! 👩‍💻
