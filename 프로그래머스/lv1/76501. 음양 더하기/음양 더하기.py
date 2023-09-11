@@ -1,2 +1,2 @@
 def solution(absolutes, signs):
-    return sum(i*-1 if j == False else i for i,j in zip(absolutes, signs))
+    return sum(i if j else i*-1 for i,j in zip(absolutes, signs))
