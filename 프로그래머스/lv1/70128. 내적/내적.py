@@ -1,5 +1,2 @@
 def solution(a, b):
-    x = 0
-    for i in range(len(a)):
-        x += a[i] * b[i]
-    return x
+    return sum(a[i] * b[i] for i in range(len(a)))
