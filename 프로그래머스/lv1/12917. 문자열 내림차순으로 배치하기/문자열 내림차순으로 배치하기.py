@@ -1,2 +1,2 @@
 def solution(s):
-    return ''.join(sorted(list(map(str, s)), reverse=True))
+    return ''.join(sorted(s, reverse=True))
