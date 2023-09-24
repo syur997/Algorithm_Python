@@ -1,4 +1,4 @@
-def solution(sizes):
+def solution(sizes) :
     x = []
     y = []
     for i in range(len(sizes)):
