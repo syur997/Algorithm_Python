@@ -1,4 +1,4 @@
-def solution(s) :
+def solution(s):
     answer = []
     last_pos = {}  # 각 문자의 마지막 위치를 저장하는 딕셔너리
 
